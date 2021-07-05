@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.Nahid{
+    color: teal;
+}
+section{
+    display: flex;
+}
+.president{
+    padding-left: 2%;
+}
+.Link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(49, 40, 23) rgb(145, 37, 18));
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: rgb(163, 39, 39);
+    font-weight: 700;
+    background-color: tomato;
+}
+.Top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
